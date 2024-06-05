@@ -7,7 +7,7 @@ seja paga. Ele criptografa osarquivos da vítima, tornando-os inacessíveis, e e
 chave de descriptografia.
 ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 
-CAMPO ONDE O UTILIZAM:
+## CAMPO ONDE O UTILIZAM:
 1. Pessoas Físicas ( indivíduos);
 2. Empresas ;
 3. Organizações.
